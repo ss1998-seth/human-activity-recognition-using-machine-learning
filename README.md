@@ -8,5 +8,5 @@ Abstract:The main focus of our project is the recognition of human activities wh
 Keywords: KNN, Random Forest, Decision Tree, classification, data pre-processing  
 
 
-Introduction 
+Introduction :
 In today’s world, everybody has a Smartphone and it is the appropriate analyzer for any activity we do.  We can analyze human activity with the help of smartphones because it is already embedded with ample number of sensors which are required to examine the user activities. This will be useful for various medical organizations and also for human survey organizations as with this data, we can determine the user’s past activities for medical treatments. For example, in this project, by determining the physical activity of a diabetic person ,one can keep a check on their sugar levels. Our system will use the sensors of the Android Smartphone such as accelerometer, Proximity Sensor, Heart Rate monitor, Fingerprint Scanner, Iris Scanner, etc.  Our system will analyze the 6 activities: Climbing Upstairs, Downstairs, Walking, Standing, Sitting, Laying.
